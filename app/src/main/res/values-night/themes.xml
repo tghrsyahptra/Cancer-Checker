@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Asclepius" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">@color/red</item>
+        <item name="colorOnPrimary">@color/blue</item>
+        <item name="colorAccent">@color/light_red</item>
+        <item name="colorOnBackground">@color/white</item>
+
+    </style>
+</resources>

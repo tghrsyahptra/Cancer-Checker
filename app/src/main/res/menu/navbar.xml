@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Menu Item untuk Home -->
+    <item
+        android:id="@+id/home_menu"
+        android:title="@string/home"
+        android:icon="@drawable/baseline_home_24" />
+
+    <!-- Menu Item untuk News -->
+    <item
+        android:id="@+id/news_menu"
+        android:title="@string/news"
+        android:icon="@drawable/baseline_article_24" />
+
+    <!-- Menu Item untuk History -->
+    <item
+        android:id="@+id/history_menu"
+        android:title="@string/history"
+        android:icon="@drawable/baseline_access_time_filled_24" />
+
+</menu>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="status">Current Status</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="no_history">No Previous Data Found</string>
+    <string name="save">Save</string>
+    <string name="title_activity_news">News Activity</string>
+    <string name="gallery">Gallery</string>
+    <string name="image_classifier_failed">Failed to initialize image classifier. Check error logs for more details.</string>
+    <string name="descriptionNews">Detailed Description</string>
+    <string name="back">Go Back</string>
+    <string name="score">10%</string>
+    <string name="history">History</string>
+    <string name="app_name">CancerChecker</string>
+    <string name="delete">Delete</string>
+    <string name="news">Latest News</string>
+    <string name="readMore">Read More</string>
+    <string name="titleNews">News Headline</string>
+    <string name="crop_failed">Cropping Failed!</string>
+    <string name="crop_image">Image Cropping</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Analysis Result</string>
+    <string name="home">Home</string>
+</resources>
